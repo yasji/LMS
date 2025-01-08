@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 5,
+    "borrowedDate": "2025-01-08",
+    "dueDate": "2025-02-07",
+    "borrowerId": 5,
+    "bookId": 1,
+    "status": "Returned"
+  },
+  {
+    "Id": 6,
+    "borrowedDate": "2025-01-08",
+    "dueDate": "2025-02-07",
+    "borrowerId": 5,
+    "bookId": 2,
+    "status": "Returned"
+  },
+  {
+    "Id": 7,
+    "borrowedDate": "2025-01-08",
+    "dueDate": "2025-02-07",
+    "borrowerId": 5,
+    "bookId": 3,
+    "status": "Returned"
+  }
+]

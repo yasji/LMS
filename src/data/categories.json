@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "name": "Fiction",
+    "books": [
+      1,
+      12,
+      24,
+      30,
+      36,
+      37,
+      39,
+      45,
+      50
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Philosophical Fiction",
+    "books": [
+      2,
+      5,
+      6,
+      9,
+      28,
+      49
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Political Philosophy",
+    "books": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Satire",
+    "books": [
+      4,
+      40
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dystopian Fiction",
+    "books": [
+      10,
+      11,
+      47
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Adventure Fiction",
+    "books": [
+      13,
+      20,
+      27,
+      33,
+      46
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Historical Fiction",
+    "books": [
+      14,
+      17,
+      35,
+      41,
+      29
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Romantic Fiction",
+    "books": [
+      15,
+      16,
+      38,
+      32
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Absurdist Fiction",
+    "books": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Epic Poetry",
+    "books": [
+      18,
+      19
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Modernist Fiction",
+    "books": [
+      21,
+      42
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Magical Realism",
+    "books": [
+      22
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Realist Fiction",
+    "books": [
+      23
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Gothic Fiction",
+    "books": [
+      25,
+      26,
+      31
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Fantasy",
+    "books": [
+      33,
+      34
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Post-Apocalyptic Fiction",
+    "books": [
+      44
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Science Fiction",
+    "books": [
+      43
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Horror Fiction",
+    "books": [
+      48
+    ]
+  }
+]

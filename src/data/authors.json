@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "name": "Harper Lee",
+    "books": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Albert Camus",
+    "books": [
+      2,
+      9
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Niccolò Machiavelli",
+    "books": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "name": "George Orwell",
+    "books": [
+      4,
+      10
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Fyodor Dostoevsky",
+    "books": [
+      5,
+      6
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Franz Kafka",
+    "books": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Aldous Huxley",
+    "books": [
+      11
+    ]
+  },
+  {
+    "id": 8,
+    "name": "F. Scott Fitzgerald",
+    "books": [
+      12
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Herman Melville",
+    "books": [
+      13
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Leo Tolstoy",
+    "books": [
+      14,
+      38
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Jane Austen",
+    "books": [
+      15,
+      16
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Victor Hugo",
+    "books": [
+      17
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Homer",
+    "books": [
+      18,
+      19
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Miguel de Cervantes",
+    "books": [
+      20
+    ]
+  },
+  {
+    "id": 15,
+    "name": "James Joyce",
+    "books": [
+      21
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Gabriel García Márquez",
+    "books": [
+      22
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Gustave Flaubert",
+    "books": [
+      23
+    ]
+  },
+  {
+    "id": 18,
+    "name": "J.D. Salinger",
+    "books": [
+      24
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Bram Stoker",
+    "books": [
+      25
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Mary Shelley",
+    "books": [
+      26
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Alexandre Dumas",
+    "books": [
+      27
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Oscar Wilde",
+    "books": [
+      28
+    ]
+  },
+  {
+    "id": 23,
+    "name": "John Steinbeck",
+    "books": [
+      29,
+      30
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Emily Brontë",
+    "books": [
+      31
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Charlotte Brontë",
+    "books": [
+      32
+    ]
+  },
+  {
+    "id": 26,
+    "name": "J.R.R. Tolkien",
+    "books": [
+      33,
+      34
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Charles Dickens",
+    "books": [
+      35,
+      36,
+      37
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Vladimir Nabokov",
+    "books": [
+      39
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Joseph Heller",
+    "books": [
+      40
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Toni Morrison",
+    "books": [
+      41
+    ]
+  },
+  {
+    "id": 31,
+    "name": "William Faulkner",
+    "books": [
+      42
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Kurt Vonnegut",
+    "books": [
+      43
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Cormac McCarthy",
+    "books": [
+      44
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Khaled Hosseini",
+    "books": [
+      45
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Yann Martel",
+    "books": [
+      46
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Anthony Burgess",
+    "books": [
+      47
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Stephen King",
+    "books": [
+      48
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Paulo Coelho",
+    "books": [
+      49
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Sylvia Plath",
+    "books": [
+      50
+    ]
+  }
+]

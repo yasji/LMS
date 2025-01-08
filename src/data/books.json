@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishedYear": 1960,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "publishedYear": 1942,
+    "genre": "Philosophical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590930002i/49552.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "publishedYear": 1532,
+    "genre": "Political Philosophy",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390055828i/28862.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "publishedYear": 1945,
+    "genre": "Satire",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publishedYear": 1866,
+    "genre": "Philosophical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "publishedYear": 1880,
+    "genre": "Philosophical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126i/4934.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "publishedYear": 1925,
+    "genre": "Absurdist Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399438i/17690.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "publishedYear": 1915,
+    "genre": "Absurdist Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646444605i/485894.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "publishedYear": 1947,
+    "genre": "Philosophical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503362434i/11989.jpg"
+  },
+  {
+    "id": 10,
+    "title": "1984",
+    "author": "George Orwell",
+    "publishedYear": 1949,
+    "genre": "Dystopian Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256i/61439040.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publishedYear": 1932,
+    "genre": "Dystopian Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publishedYear": 1925,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033243i/41733839.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "publishedYear": 1851,
+    "genre": "Adventure Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747.jpg"
+  },
+  {
+    "id": 14,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publishedYear": 1869,
+    "genre": "Historical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publishedYear": 1813,
+    "genre": "Romantic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "publishedYear": 1811,
+    "genre": "Romantic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397245675i/14935.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "publishedYear": 1862,
+    "genre": "Historical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publishedYear": 1900,
+    "genre": "Epic Poetry",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711957706i/1381.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Iliad",
+    "author": "Homer",
+    "publishedYear": -850,
+    "genre": "Epic Poetry",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681797700i/77265004.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "publishedYear": 1605,
+    "genre": "Adventure Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551734146i/44244703.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "publishedYear": 1922,
+    "genre": "Modernist Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428891345i/338798.jpg"
+  },
+  {
+    "id": 22,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "publishedYear": 1967,
+    "genre": "Magical Realism",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "publishedYear": 1857,
+    "genre": "Realist Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606770119i/2175.jpg"
+  },
+  {
+    "id": 24,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publishedYear": 1951,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "publishedYear": 1897,
+    "genre": "Gothic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publishedYear": 1818,
+    "genre": "Gothic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347619131i/884723.jpg"
+  },
+  {
+    "id": 27,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "publishedYear": 1844,
+    "genre": "Adventure Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997i/7126.jpg"
+  },
+  {
+    "id": 28,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "publishedYear": 1890,
+    "genre": "Philosophical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681i/489732.jpg"
+  },
+  {
+    "id": 29,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "publishedYear": 1939,
+    "genre": "Historical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375670575i/18114322.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "publishedYear": 1937,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302904i/890.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "publishedYear": 1847,
+    "genre": "Gothic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "publishedYear": 1847,
+    "genre": "Romantic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557343311i/10210.jpg"
+  },
+  {
+    "id": 33,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publishedYear": 1937,
+    "genre": "Fantasy",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg"
+  },
+  {
+    "id": 34,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publishedYear": 1954,
+    "genre": "Fantasy",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg"
+  },
+  {
+    "id": 35,
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "publishedYear": 1859,
+    "genre": "Historical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344922523i/1953.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "publishedYear": 1861,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631687432i/2623.jpg"
+  },
+  {
+    "id": 37,
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "publishedYear": 1850,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461452762i/58696.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "publishedYear": 1877,
+    "genre": "Romantic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617i/15823480.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "publishedYear": 1955,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590093359i/9216051.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "publishedYear": 1961,
+    "genre": "Satire",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317i/168668.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "publishedYear": 1987,
+    "genre": "Historical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722944318i/6149.jpg"
+  },
+  {
+    "id": 42,
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "publishedYear": 1929,
+    "genre": "Modernist Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995i/10975.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "publishedYear": 1969,
+    "genre": "Science Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981.jpg"
+  },
+  {
+    "id": 44,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "publishedYear": 2006,
+    "genre": "Post-Apocalyptic Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288.jpg"
+  },
+  {
+    "id": 45,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "publishedYear": 2003,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753i/77203.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "publishedYear": 2001,
+    "genre": "Adventure Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689i/4214.jpg"
+  },
+  {
+    "id": 47,
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "publishedYear": 1962,
+    "genre": "Dystopian Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060i/41817486.jpg"
+  },
+  {
+    "id": 48,
+    "title": "The Shining",
+    "author": "Stephen King",
+    "publishedYear": 1977,
+    "genre": "Horror Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg"
+  },
+  {
+    "id": 49,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publishedYear": 1988,
+    "genre": "Philosophical Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg"
+  },
+  {
+    "id": 50,
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "publishedYear": 1963,
+    "genre": "Fiction",
+    "totalCopies": 3,
+    "availableCopies": 3,
+    "coverUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554582218i/6514.jpg"
+  }
+]
