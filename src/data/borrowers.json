@@ -32,7 +32,8 @@
     "name": "Clara White",
     "email": "clarawhite@example.com",
     "password": "1234",
-    "borrowedBooks": []
+    "borrowedBooks": [
+    ]
   },
   {
     "id": 6,

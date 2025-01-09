@@ -179,6 +179,8 @@ export async function BorrowBook(borrowerId, bookId) {
     const newLoan = await addLoan({
       borrowerId: borrowerId,
       bookId: bookId,
+      bookTitle: books[bookIndex].title,
+      borrowerName: borrowers[borrowerIndex].name,
       status: "On Loan"
     });
 

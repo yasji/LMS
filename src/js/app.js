@@ -1,9 +1,9 @@
-import { setupDashboard } from './modules/dashboard.js';
-import { setupBooks } from './modules/books.js';
-import { setupAuthors } from './modules/authors.js';
-import { setupBorrowers } from './modules/borrowers.js';
-import { setupLoans } from './modules/loans.js';
-import { setupCategories } from './modules/categories.js';
+import { setupDashboard } from './modules/adminDashboard/dashboard.js';
+import { setupBooks } from './modules/adminDashboard/books.js';
+import { setupAuthors } from './modules/adminDashboard/authors.js';
+import { setupBorrowers } from './modules/adminDashboard/borrowers.js';
+import { setupLoans } from './modules/adminDashboard/loans.js';
+import { setupCategories } from './modules/adminDashboard/categories.js';
 import { setupBorrowerDashboard } from './modules/borrowerDashboard/index.js';
 
 

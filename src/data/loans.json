@@ -1,26 +1,102 @@
 [
   {
-    "Id": 5,
-    "borrowedDate": "2025-01-08",
-    "dueDate": "2025-02-07",
+    "Id": 1,
+    "borrowedDate": "2024-12-09",
+    "dueDate": "2025-02-08",
     "borrowerId": 5,
-    "bookId": 1,
+    "bookId": 4,
+    "bookTitle": "Animal Farm",
+    "borrowerName": "Clara White",
+    "status": "Returned"
+  },
+  {
+    "Id": 2,
+    "borrowedDate": "2024-08-15",
+    "dueDate": "2024-10-15",
+    "borrowerId": 2,
+    "bookId": 10,
+    "bookTitle": "1984",
+    "borrowerName": "Jane Smith",
+    "status": "Returned"
+  },
+  {
+    "Id": 3,
+    "borrowedDate": "2024-09-20",
+    "dueDate": "2024-11-20",
+    "borrowerId": 4,
+    "bookId": 27,
+    "bookTitle": "The Count of Monte Cristo",
+    "borrowerName": "Bob Brown",
+    "status": "Returned"
+  },
+  {
+    "Id": 4,
+    "borrowedDate": "2024-10-05",
+    "dueDate": "2024-12-05",
+    "borrowerId": 1,
+    "bookId": 5,
+    "bookTitle": "Crime and Punishment",
+    "borrowerName": "John Doe",
+    "status": "Returned"
+  },
+  {
+    "Id": 5,
+    "borrowedDate": "2024-11-10",
+    "dueDate": "2025-01-10",
+    "borrowerId": 3,
+    "bookId": 15,
+    "bookTitle": "Pride and Prejudice",
+    "borrowerName": "Alice Johnson",
     "status": "Returned"
   },
   {
     "Id": 6,
-    "borrowedDate": "2025-01-08",
-    "dueDate": "2025-02-07",
-    "borrowerId": 5,
-    "bookId": 2,
+    "borrowedDate": "2024-12-01",
+    "dueDate": "2025-02-01",
+    "borrowerId": 6,
+    "bookId": 34,
+    "bookTitle": "The Lord of the Rings",
+    "borrowerName": "David Green",
     "status": "Returned"
   },
   {
     "Id": 7,
-    "borrowedDate": "2025-01-08",
-    "dueDate": "2025-02-07",
-    "borrowerId": 5,
-    "bookId": 3,
+    "borrowedDate": "2024-08-25",
+    "dueDate": "2024-10-25",
+    "borrowerId": 1,
+    "bookId": 12,
+    "bookTitle": "The Great Gatsby",
+    "borrowerName": "John Doe",
+    "status": "Returned"
+  },
+  {
+    "Id": 8,
+    "borrowedDate": "2024-09-10",
+    "dueDate": "2024-11-10",
+    "borrowerId": 2,
+    "bookId": 22,
+    "bookTitle": "One Hundred Years of Solitude",
+    "borrowerName": "Jane Smith",
+    "status": "Returned"
+  },
+  {
+    "Id": 9,
+    "borrowedDate": "2024-10-15",
+    "dueDate": "2024-12-15",
+    "borrowerId": 3,
+    "bookId": 38,
+    "bookTitle": "Anna Karenina",
+    "borrowerName": "Alice Johnson",
+    "status": "Returned"
+  },
+  {
+    "Id": 10,
+    "borrowedDate": "2024-11-20",
+    "dueDate": "2025-01-20",
+    "borrowerId": 4,
+    "bookId": 45,
+    "bookTitle": "The Kite Runner",
+    "borrowerName": "Bob Brown",
     "status": "Returned"
   }
 ]
