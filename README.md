@@ -52,55 +52,25 @@ A modern and efficient Library Management System built with Vite, TailwindCSS, a
 ## Project Structure
 
 ```plaintext
-.bolt/
-    config.json
-.gitignore
-api/
-    save.js
-index.html
-package.json
-postcss.config.js
-src/
-    data/
-        authors.json
-        books.json
-        borrowers.json
-        categories.json
-        loans.json
-    js/
-        app.js
-        auth.js
-        components/
-            Chart.js
-            forms/
-                BorrowerForm.js
-                CategoryForm.js
-                BookForm.js
-                AuthorForm.js
-            Modal.js
-            StatCard.js
-            Table.js
-        modules/
-            adminDashboard/
-                dashboard.js
-                books.js
-                authors.js
-                categories.js
-                borrowers.js
-            borrowerDashboard/
-                index.js
-                availableBooks.js
-                borrowedBooks.js
-        updateBookCovers.js
-        utils/
-            api.js
-            Data.js
-            dateUtils.js
-            dialog.js
-            export.js
-            storage.js
-    main.js
-styles/
-    main.css
-tailwind.config.js
-vite.config.js
+.
+├─ api/
+├─ src/
+│  ├─ data/
+│  │  ├─ authors.json
+│  │  ├─ books.json
+│  │  ├─ borrowers.json
+│  │  ├─ categories.json
+│  │  └─ loans.json
+│  ├─ js/
+│  │  ├─ auth.js
+│  │  ├─ modules/
+│  │  │  ├─ adminDashboard/
+│  │  │  └─ borrowerDashboard/
+│  │  └─ utils/
+│  │     └─ storage.js
+│  ├─ styles/
+│  │  └─ main.css
+│  └─ main.js
+├─ package.json
+├─ tailwind.config.js
+└─ vite.config.js
